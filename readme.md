@@ -1,5 +1,7 @@
 # 💻 Random Toolbox - yhujin.my.id
 
+![Tampilan Toolbox](image.png)
+
 **Random Toolbox** adalah aplikasi utilitas sistem Windows serbaguna yang memungkinkan pengguna melakukan optimasi, perbaikan, dan modifikasi sistem dengan cepat dan mudah. Berisi puluhan fitur yang bisa dijalankan hanya dengan satu klik, aplikasi ini cocok untuk pengguna biasa maupun teknisi yang ingin mempercepat performa atau memperbaiki masalah Windows.
 
 ---
@@ -14,7 +16,7 @@ Toolbox ini berjalan di latar belakang (background). Untuk membuka menu utama:
 
 ## 🎨 Warna Tombol & Artinya
 
-- ⚫ **Teks Hitam (background putih)**  
+- ⚫ **Teks Hitam**  
   ➤ **Fitur aman.** Dapat digunakan berkali-kali tanpa risiko, seperti membuka task manager, reset cache, optimasi RAM, dll.
 
 - 🔵 **Teks Biru**  
@@ -22,9 +24,6 @@ Toolbox ini berjalan di latar belakang (background). Untuk membuka menu utama:
 
 - 🔴 **Teks Merah**  
   ➤ **Fitur berisiko tinggi** yang bisa menonaktifkan komponen penting sistem, menghapus file sistem, memodifikasi registry, atau bypass keamanan. **Hanya untuk pengguna berpengalaman.**
-
-- 🟢 **Teks Hijau**  
-  ➤ Tidak menjalankan fungsi sistem. Hanya untuk dukungan dan informasi seperti “Dukungan untuk kami”.
 
 ---
 
